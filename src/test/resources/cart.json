@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "itemName": "H-E-B Two Bite Brownies",
+      "sku": 85294241,
+      "isTaxable": true,
+      "ownBrand": true,
+      "price": 3.61
+    },
+    {
+      "itemName": "Halo Top Vanilla Bean Ice Cream",
+      "sku": 95422042,
+      "isTaxable": true,
+      "ownBrand": false,
+      "price": 3.31
+    }
+  ]
+}
